@@ -1,0 +1,1234 @@
+{
+    "ZMO0599": {
+        "accessions": "Q5NPY2",
+        "entry_name": "ACCA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 34268,
+        "gene_name": "'Name=accA {ECO:0000255|HAMAP-Rule:MF_00823}; OrderedLocusNames=ZMO0599;'"
+    },
+    "ZMO1709": {
+        "accessions": "Q5NLS7",
+        "entry_name": "ACPS_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 14639,
+        "gene_name": "'Name=acpS {ECO:0000255|HAMAP-Rule:MF_00101}; OrderedLocusNames=ZMO1709;'"
+    },
+    "ZMO0971": {
+        "accessions": "Q5NNW5",
+        "entry_name": "ADE_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 37881,
+        "gene_name": "'OrderedLocusNames=ZMO0971;'"
+    },
+    "ZMO1236": {
+        "accessions": "P20368",
+        "entry_name": "ADH1_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 36122,
+        "gene_name": "'Name=adhA; OrderedLocusNames=ZMO1236;'"
+    },
+    "ZMO1596": {
+        "accessions": "P0DJA2",
+        "entry_name": "ADH2_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 40145,
+        "gene_name": "'Name=adhB; OrderedLocusNames=ZMO1596;'"
+    },
+    "ZMO0997": {
+        "accessions": "Q00384",
+        "entry_name": "ALKH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 21505,
+        "gene_name": "'Name=eda; Synonyms=kdgA; OrderedLocusNames=ZMO0997;'"
+    },
+    "ZMO0938": {
+        "accessions": "Q5NNZ8",
+        "entry_name": "ALPH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 63011,
+        "gene_name": "'Name=phoD {ECO:0000312|EMBL:AAA74034.1}; OrderedLocusNames=ZMO0938;'"
+    },
+    "ZMO1642": {
+        "accessions": "Q5NLZ4",
+        "entry_name": "ANMK_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 39563,
+        "gene_name": "'Name=anmK {ECO:0000255|HAMAP-Rule:MF_01270}; OrderedLocusNames=ZMO1642;'"
+    },
+    "ZMO1494": {
+        "accessions": "Q5NME2",
+        "entry_name": "ARGB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 31710,
+        "gene_name": "'Name=argB {ECO:0000255|HAMAP-Rule:MF_00082}; OrderedLocusNames=ZMO1494;'"
+    },
+    "ZMO0923": {
+        "accessions": "Q5NP13",
+        "entry_name": "ARGJ_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 43132,
+        "gene_name": "'Name=argJ {ECO:0000255|HAMAP-Rule:MF_01106}; OrderedLocusNames=ZMO0923;'"
+    },
+    "ZMO1770": {
+        "accessions": "Q9Z660",
+        "entry_name": "ARLY_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 51079,
+        "gene_name": "'Name=argH {ECO:0000255|HAMAP-Rule:MF_00006}; OrderedLocusNames=ZMO1770;'"
+    },
+    "ZMO1796": {
+        "accessions": "Q5NLJ0",
+        "entry_name": "AROA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 47788,
+        "gene_name": "'Name=aroA {ECO:0000255|HAMAP-Rule:MF_00210}; OrderedLocusNames=ZMO1796;'"
+    },
+    "ZMO0593": {
+        "accessions": "Q5NPY8",
+        "entry_name": "AROB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 41033,
+        "gene_name": "'Name=aroB {ECO:0000255|HAMAP-Rule:MF_00110}; OrderedLocusNames=ZMO0593;'"
+    },
+    "ZMO1693": {
+        "accessions": "Q5NLU3",
+        "entry_name": "AROC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 38332,
+        "gene_name": "'Name=aroC {ECO:0000255|HAMAP-Rule:MF_00300}; OrderedLocusNames=ZMO1693;'"
+    },
+    "ZMO0594": {
+        "accessions": "Q5NPY7",
+        "entry_name": "AROK_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 19609,
+        "gene_name": "'Name=aroK {ECO:0000255|HAMAP-Rule:MF_00109}; OrderedLocusNames=ZMO0594;'"
+    },
+    "ZMO1036": {
+        "accessions": "Q5NNQ0",
+        "entry_name": "ASSY_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 45703,
+        "gene_name": "'Name=argG {ECO:0000255|HAMAP-Rule:MF_00005}; OrderedLocusNames=ZMO1036;'"
+    },
+    "ZMO1172": {
+        "accessions": "Q5NNB4",
+        "entry_name": "ASTB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 47270,
+        "gene_name": "'Name=astB {ECO:0000255|HAMAP-Rule:MF_01172}; OrderedLocusNames=ZMO1172;'"
+    },
+    "ZMO0239": {
+        "accessions": "Q5NQZ1",
+        "entry_name": "ATPA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 55278,
+        "gene_name": "'Name=atpA {ECO:0000255|HAMAP-Rule:MF_01346}; OrderedLocusNames=ZMO0239;'"
+    },
+    "ZMO0241": {
+        "accessions": "Q5NQY9",
+        "entry_name": "ATPB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 52161,
+        "gene_name": "'Name=atpD {ECO:0000255|HAMAP-Rule:MF_01347}; OrderedLocusNames=ZMO0241;'"
+    },
+    "ZMO0094": {
+        "accessions": "Q5NRD6",
+        "entry_name": "BIOB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 36263,
+        "gene_name": "'Name=bioB {ECO:0000255|HAMAP-Rule:MF_01694}; OrderedLocusNames=ZMO0094;'"
+    },
+    "ZMO1618": {
+        "accessions": "O50235",
+        "entry_name": "CARA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 40808,
+        "gene_name": "'Name=carA {ECO:0000255|HAMAP-Rule:MF_01209}; OrderedLocusNames=ZMO1618;'"
+    },
+    "ZMO1617": {
+        "accessions": "O50236",
+        "entry_name": "CARB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 119529,
+        "gene_name": "'Name=carB {ECO:0000255|HAMAP-Rule:MF_01210}; OrderedLocusNames=ZMO1617;'"
+    },
+    "ZMO0260": {
+        "accessions": "Q5NQX0",
+        "entry_name": "CCMA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 23936,
+        "gene_name": "'Name=ccmA {ECO:0000255|HAMAP-Rule:MF_01707}; Synonyms=cycV; OrderedLocusNames=ZMO0260;'"
+    },
+    "ZMO0854": {
+        "accessions": "Q9RME4",
+        "entry_name": "COAD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 20038,
+        "gene_name": "'Name=coaD {ECO:0000255|HAMAP-Rule:MF_00151}; Synonyms=kdtB; OrderedLocusNames=ZMO0854;'"
+    },
+    "ZMO0040": {
+        "accessions": "Q5NRJ0",
+        "entry_name": "COAE_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 22083,
+        "gene_name": "'Name=coaE {ECO:0000255|HAMAP-Rule:MF_00376}; OrderedLocusNames=ZMO0040;'"
+    },
+    "ZMO1867": {
+        "accessions": "Q5NLB9",
+        "entry_name": "COAX_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 29707,
+        "gene_name": "'Name=coaX {ECO:0000255|HAMAP-Rule:MF_01274}; OrderedLocusNames=ZMO1867;'"
+    },
+    "ZMO0005": {
+        "accessions": "Q5NRM5",
+        "entry_name": "CYSD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 35395,
+        "gene_name": "'Name=cysD {ECO:0000255|HAMAP-Rule:MF_00064}; OrderedLocusNames=ZMO0005;'"
+    },
+    "ZMO0006": {
+        "accessions": "Q5NRM4",
+        "entry_name": "CYSG_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 51585,
+        "gene_name": "'Name=cysG {ECO:0000255|HAMAP-Rule:MF_01646}; OrderedLocusNames=ZMO0006;'"
+    },
+    "ZMO0007": {
+        "accessions": "Q5NRM3",
+        "entry_name": "CYSH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 28262,
+        "gene_name": "'Name=cysH {ECO:0000255|HAMAP-Rule:MF_00063}; OrderedLocusNames=ZMO0007;'"
+    },
+    "ZMO0008": {
+        "accessions": "Q5NRM2",
+        "entry_name": "CYSI_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 64064,
+        "gene_name": "'Name=cysI {ECO:0000255|HAMAP-Rule:MF_01540}; OrderedLocusNames=ZMO0008;'"
+    },
+    "ZMO0009": {
+        "accessions": "Q5NRM1",
+        "entry_name": "CYSJ_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 67583,
+        "gene_name": "'Name=cysJ {ECO:0000255|HAMAP-Rule:MF_01541}; OrderedLocusNames=ZMO0009;'"
+    },
+    "ZMO0720": {
+        "accessions": "Q5NPL6",
+        "entry_name": "DAPA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 30999,
+        "gene_name": "'Name=dapA {ECO:0000255|HAMAP-Rule:MF_00418}; OrderedLocusNames=ZMO0720;'"
+    },
+    "ZMO0707": {
+        "accessions": "Q5NPM9",
+        "entry_name": "DAPB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 26772,
+        "gene_name": "'Name=dapB {ECO:0000255|HAMAP-Rule:MF_00102}; OrderedLocusNames=ZMO0707;'"
+    },
+    "ZMO0431": {
+        "accessions": "Q5NQF0",
+        "entry_name": "DAPD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 29028,
+        "gene_name": "'Name=dapD {ECO:0000255|HAMAP-Rule:MF_00811}; OrderedLocusNames=ZMO0431;'"
+    },
+    "ZMO1632": {
+        "accessions": "Q5NM04",
+        "entry_name": "DAPE_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 40020,
+        "gene_name": "'Name=dapE {ECO:0000255|HAMAP-Rule:MF_01690}; OrderedLocusNames=ZMO1632;'"
+    },
+    "ZMO1072": {
+        "accessions": "Q5NNL4",
+        "entry_name": "DAPF_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 29297,
+        "gene_name": "'Name=dapF {ECO:0000255|HAMAP-Rule:MF_00197}; OrderedLocusNames=ZMO1072;'"
+    },
+    "ZMO1768": {
+        "accessions": "Q9Z661",
+        "entry_name": "DCDA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 45249,
+        "gene_name": "'Name=lysA {ECO:0000255|HAMAP-Rule:MF_02120}; OrderedLocusNames=ZMO1768;'"
+    },
+    "ZMO1237": {
+        "accessions": "P30799",
+        "entry_name": "DDH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 36496,
+        "gene_name": "'Name=ddh; Synonyms=ldhA; OrderedLocusNames=ZMO1237;'"
+    },
+    "ZMO0834": {
+        "accessions": "Q9RNM9",
+        "entry_name": "DDL_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 35215,
+        "gene_name": "'Name=ddl {ECO:0000255|HAMAP-Rule:MF_00047}; OrderedLocusNames=ZMO0834;'"
+    },
+    "ZMO0813": {
+        "accessions": "Q9REQ2",
+        "entry_name": "DEF_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 20424,
+        "gene_name": "'Name=def {ECO:0000255|HAMAP-Rule:MF_00163}; OrderedLocusNames=ZMO0813;'"
+    },
+    "ZMO0512": {
+        "accessions": "P50970",
+        "entry_name": "DLDH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 49746,
+        "gene_name": "'Name=lpd; OrderedLocusNames=ZMO0512;'"
+    },
+    "ZMO0364": {
+        "accessions": "P28719",
+        "entry_name": "DNLJ_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 82191,
+        "gene_name": "'Name=ligA {ECO:0000255|HAMAP-Rule:MF_01588}; Synonyms=lig; OrderedLocusNames=ZMO0364;'"
+    },
+    "ZMO1191": {
+        "accessions": "Q9X3X5",
+        "entry_name": "DUT_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 15680,
+        "gene_name": "'Name=dut {ECO:0000255|HAMAP-Rule:MF_00116}; OrderedLocusNames=ZMO1191;'"
+    },
+    "ZMO1150": {
+        "accessions": "Q9X5F2",
+        "entry_name": "DXR_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 41858,
+        "gene_name": "'Name=dxr {ECO:0000255|HAMAP-Rule:MF_00183}; OrderedLocusNames=ZMO1150;'"
+    },
+    "ZMO1234": {
+        "accessions": "Q5NN52",
+        "entry_name": "DXS1_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 70307,
+        "gene_name": "'Name=dxs1 {ECO:0000255|HAMAP-Rule:MF_00315}; OrderedLocusNames=ZMO1234;'"
+    },
+    "ZMO1598": {
+        "accessions": "Q5NM38",
+        "entry_name": "DXS2_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 70514,
+        "gene_name": "'Name=dxs2 {ECO:0000255|HAMAP-Rule:MF_00315}; OrderedLocusNames=ZMO1598;'"
+    },
+    "ZMO0368": {
+        "accessions": "P21909",
+        "entry_name": "EDD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 65392,
+        "gene_name": "'Name=edd {ECO:0000255|HAMAP-Rule:MF_02094, ECO:0000303|PubMed:2254282}; OrderedLocusNames=ZMO0368;'"
+    },
+    "ZMO1608": {
+        "accessions": "P33675",
+        "entry_name": "ENO_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 45743,
+        "gene_name": "'Name=eno {ECO:0000255|HAMAP-Rule:MF_00318}; OrderedLocusNames=ZMO1608;'"
+    },
+    "ZMO1146": {
+        "accessions": "Q9X5F5",
+        "entry_name": "FABZ_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 17271,
+        "gene_name": "'Name=fabZ {ECO:0000255|HAMAP-Rule:MF_00406}; Synonyms=mad; OrderedLocusNames=ZMO1146;'"
+    },
+    "ZMO0811": {
+        "accessions": "Q5NPC5",
+        "entry_name": "FMT_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 32483,
+        "gene_name": "'Name=fmt {ECO:0000255|HAMAP-Rule:MF_00182}; OrderedLocusNames=ZMO0811;'"
+    },
+    "ZMO0914": {
+        "accessions": "Q5NP22",
+        "entry_name": "FOLD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 31443,
+        "gene_name": "'Name=folD {ECO:0000255|HAMAP-Rule:MF_01576}; OrderedLocusNames=ZMO0914;'"
+    },
+    "ZMO0454": {
+        "accessions": "Q5NQC7",
+        "entry_name": "FTHS_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 59286,
+        "gene_name": "'Name=fhs {ECO:0000255|HAMAP-Rule:MF_01543}; OrderedLocusNames=ZMO0454;'"
+    },
+    "ZMO0177": {
+        "accessions": "P09316",
+        "entry_name": "G3P_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 36102,
+        "gene_name": "'Name=gap; OrderedLocusNames=ZMO0177;'"
+    },
+    "ZMO0367": {
+        "accessions": "P21907",
+        "entry_name": "G6PD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 53859,
+        "gene_name": "'Name=zwf {ECO:0000255|HAMAP-Rule:MF_00966}; OrderedLocusNames=ZMO0367;'"
+    },
+    "ZMO1212": {
+        "accessions": "P28718",
+        "entry_name": "G6PI_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 55399,
+        "gene_name": "'Name=pgi; OrderedLocusNames=ZMO1212;'"
+    },
+    "ZMO0783": {
+        "accessions": "Q5NPF3",
+        "entry_name": "GATA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 52343,
+        "gene_name": "'Name=gatA {ECO:0000255|HAMAP-Rule:MF_00120}; OrderedLocusNames=ZMO0783;'"
+    },
+    "ZMO0782": {
+        "accessions": "Q5NPF4",
+        "entry_name": "GATB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 54110,
+        "gene_name": "'Name=gatB {ECO:0000255|HAMAP-Rule:MF_00121}; OrderedLocusNames=ZMO0782;'"
+    },
+    "ZMO0689": {
+        "accessions": "Q07982",
+        "entry_name": "GFO_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 47190,
+        "gene_name": "'Name=gfo; OrderedLocusNames=ZMO0689;'"
+    },
+    "ZMO0369": {
+        "accessions": "P21908",
+        "entry_name": "GLK_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 34897,
+        "gene_name": "'Name=glk {ECO:0000255|HAMAP-Rule:MF_00524}; OrderedLocusNames=ZMO0369;'"
+    },
+    "ZMO1002": {
+        "accessions": "Q5NNT4",
+        "entry_name": "GLMM_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 47895,
+        "gene_name": "'Name=glmM {ECO:0000255|HAMAP-Rule:MF_01554}; OrderedLocusNames=ZMO1002;'"
+    },
+    "ZMO0056": {
+        "accessions": "Q5NRH4",
+        "entry_name": "GLMS_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 65988,
+        "gene_name": "'Name=glmS {ECO:0000255|HAMAP-Rule:MF_00164}; OrderedLocusNames=ZMO0056;'"
+    },
+    "ZMO0498": {
+        "accessions": "Q5NQ83",
+        "entry_name": "GLMU_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 49103,
+        "gene_name": "'Name=glmU {ECO:0000255|HAMAP-Rule:MF_01631}; OrderedLocusNames=ZMO0498;'"
+    },
+    "ZMO0766": {
+        "accessions": "Q5NPH0",
+        "entry_name": "GLND_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 104393,
+        "gene_name": "'Name=glnD {ECO:0000255|HAMAP-Rule:MF_00277}; OrderedLocusNames=ZMO0766;'"
+    },
+    "ZMO1201": {
+        "accessions": "Q5NN85",
+        "entry_name": "GLYA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 45813,
+        "gene_name": "'Name=glyA {ECO:0000255|HAMAP-Rule:MF_00051}; OrderedLocusNames=ZMO1201;'"
+    },
+    "ZMO1649": {
+        "accessions": "Q01578",
+        "entry_name": "GNL_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 38453,
+        "gene_name": "'Name=gnl; OrderedLocusNames=ZMO1649;'"
+    },
+    "ZMO1905": {
+        "accessions": "Q5NL81",
+        "entry_name": "GPDA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 36310,
+        "gene_name": "'Name=gpsA {ECO:0000255|HAMAP-Rule:MF_00394}; OrderedLocusNames=ZMO1905;'"
+    },
+    "ZMO1240": {
+        "accessions": "P30798",
+        "entry_name": "GPMA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 25938,
+        "gene_name": "'Name=gpmA {ECO:0000255|HAMAP-Rule:MF_01039}; Synonyms=gpm, pgm; OrderedLocusNames=ZMO1240;'"
+    },
+    "ZMO1267": {
+        "accessions": "Q5NN19",
+        "entry_name": "GUAA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 57837,
+        "gene_name": "'Name=guaA {ECO:0000255|HAMAP-Rule:MF_00344}; OrderedLocusNames=ZMO1267;'"
+    },
+    "ZMO0117": {
+        "accessions": "Q5NRB3",
+        "entry_name": "HCP_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 59448,
+        "gene_name": "'Name=hcp {ECO:0000255|HAMAP-Rule:MF_00069}; OrderedLocusNames=ZMO0117;'"
+    },
+    "ZMO0303": {
+        "accessions": "P57779",
+        "entry_name": "HEMH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 37426,
+        "gene_name": "'Name=hemH; OrderedLocusNames=ZMO0303;'"
+    },
+    "ZMO1550": {
+        "accessions": "Q9RH04",
+        "entry_name": "HIS1_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 24536,
+        "gene_name": "'Name=hisG; OrderedLocusNames=ZMO1550;'"
+    },
+    "ZMO1499": {
+        "accessions": "Q5NMD7",
+        "entry_name": "HIS2_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 11699,
+        "gene_name": "'Name=hisE {ECO:0000255|HAMAP-Rule:MF_01020}; OrderedLocusNames=ZMO1499;'"
+    },
+    "ZMO1178": {
+        "accessions": "Q9X3W1",
+        "entry_name": "HIS3_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 14150,
+        "gene_name": "'Name=hisI {ECO:0000255|HAMAP-Rule:MF_01021}; OrderedLocusNames=ZMO1178;'"
+    },
+    "ZMO1501": {
+        "accessions": "Q5NMD5",
+        "entry_name": "HIS4_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 26147,
+        "gene_name": "'Name=hisA {ECO:0000255|HAMAP-Rule:MF_01014}; OrderedLocusNames=ZMO1501;'"
+    },
+    "ZMO1502": {
+        "accessions": "Q5NMD4",
+        "entry_name": "HIS5_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 22882,
+        "gene_name": "'Name=hisH {ECO:0000255|HAMAP-Rule:MF_00278}; OrderedLocusNames=ZMO1502;'"
+    },
+    "ZMO1500": {
+        "accessions": "Q5NMD6",
+        "entry_name": "HIS6_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 26790,
+        "gene_name": "'Name=hisF {ECO:0000255|HAMAP-Rule:MF_01013}; OrderedLocusNames=ZMO1500;'"
+    },
+    "ZMO1503": {
+        "accessions": "Q5NMD3",
+        "entry_name": "HIS7_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 21676,
+        "gene_name": "'Name=hisB {ECO:0000255|HAMAP-Rule:MF_00076}; OrderedLocusNames=ZMO1503;'"
+    },
+    "ZMO0421": {
+        "accessions": "P34037",
+        "entry_name": "HIS8_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 40342,
+        "gene_name": "'Name=hisC {ECO:0000255|HAMAP-Rule:MF_01023}; Synonyms=hisH {ECO:0000303|PubMed:7883715}; OrderedLocusNames=ZMO0421;'"
+    },
+    "ZMO1551": {
+        "accessions": "Q9RH05",
+        "entry_name": "HISX_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 46339,
+        "gene_name": "'Name=hisD; Synonyms=hdh; OrderedLocusNames=ZMO1551;'"
+    },
+    "ZMO0869": {
+        "accessions": "Q5NP67",
+        "entry_name": "HPNC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 32970,
+        "gene_name": "'Name=hpnC {ECO:0000303|PubMed:9714766}; OrderedLocusNames=ZMO0869 {ECO:0000312|EMBL:AAV89493.1};'"
+    },
+    "ZMO0870": {
+        "accessions": "H2VFR7",
+        "entry_name": "HPND_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 32577,
+        "gene_name": "'Name=hpnD {ECO:0000303|PubMed:9714766}; OrderedLocusNames=ZMO0870 {ECO:0000312|EMBL:AAV89494.1};'"
+    },
+    "ZMO0871": {
+        "accessions": "Q5NP65",
+        "entry_name": "HPNE_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 45492,
+        "gene_name": "'Name=hpnE {ECO:0000303|PubMed:9714766}; OrderedLocusNames=ZMO0871 {ECO:0000312|EMBL:AAV89495.1};'"
+    },
+    "ZMO1141": {
+        "accessions": "Q9X5F8",
+        "entry_name": "ILVC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 36575,
+        "gene_name": "'Name=ilvC {ECO:0000255|HAMAP-Rule:MF_00435}; OrderedLocusNames=ZMO1141;'"
+    },
+    "ZMO1792": {
+        "accessions": "Q5NLJ4",
+        "entry_name": "ILVD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 65679,
+        "gene_name": "'Name=ilvD {ECO:0000255|HAMAP-Rule:MF_00012}; OrderedLocusNames=ZMO1792;'"
+    },
+    "ZMO0375": {
+        "accessions": "P0DJA4",
+        "entry_name": "INVB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 46100,
+        "gene_name": "'Name=sacC; Synonyms=invB, sucE3; OrderedLocusNames=ZMO0375;'"
+    },
+    "ZMO1128": {
+        "accessions": "Q9RNZ1",
+        "entry_name": "ISPDF_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 41369,
+        "gene_name": "'Name=ispDF {ECO:0000255|HAMAP-Rule:MF_01520}; OrderedLocusNames=ZMO1128;'"
+    },
+    "ZMO1182": {
+        "accessions": "Q9X3W5",
+        "entry_name": "ISPE_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 30474,
+        "gene_name": "'Name=ispE {ECO:0000255|HAMAP-Rule:MF_00061}; OrderedLocusNames=ZMO1182;'"
+    },
+    "ZMO0180": {
+        "accessions": "Q5NR50",
+        "entry_name": "ISPG_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 39941,
+        "gene_name": "'Name=ispG {ECO:0000255|HAMAP-Rule:MF_00159}; OrderedLocusNames=ZMO0180;'"
+    },
+    "ZMO0875": {
+        "accessions": "Q5NP61",
+        "entry_name": "ISPH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 36504,
+        "gene_name": "'Name=ispH {ECO:0000255|HAMAP-Rule:MF_00191}; Synonyms=lytB; OrderedLocusNames=ZMO0875;'"
+    },
+    "ZMO1152": {
+        "accessions": "Q9X5F1",
+        "entry_name": "ISPT_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 27715,
+        "gene_name": "'Name=uppS {ECO:0000255|HAMAP-Rule:MF_01139}; OrderedLocusNames=ZMO1152;'"
+    },
+    "ZMO0013": {
+        "accessions": "Q5NRL7",
+        "entry_name": "IXTPA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 22937,
+        "gene_name": "'OrderedLocusNames=ZMO0013;'"
+    },
+    "ZMO0538": {
+        "accessions": "Q5NQ43",
+        "entry_name": "KAD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 24528,
+        "gene_name": "'Name=adk {ECO:0000255|HAMAP-Rule:MF_00235}; OrderedLocusNames=ZMO0538;'"
+    },
+    "ZMO0433": {
+        "accessions": "Q5NQE8",
+        "entry_name": "KGUA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 24760,
+        "gene_name": "'Name=gmk {ECO:0000255|HAMAP-Rule:MF_00328}; OrderedLocusNames=ZMO0433;'"
+    },
+    "ZMO1600": {
+        "accessions": "O69015",
+        "entry_name": "KHSE_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 36738,
+        "gene_name": "'Name=thrB {ECO:0000255|HAMAP-Rule:MF_00301}; OrderedLocusNames=ZMO1600;'"
+    },
+    "ZMO0552": {
+        "accessions": "Q5NQ29",
+        "entry_name": "KITH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 22095,
+        "gene_name": "'Name=tdk {ECO:0000255|HAMAP-Rule:MF_00124}; OrderedLocusNames=ZMO0552;'"
+    },
+    "ZMO0677": {
+        "accessions": "Q5NPQ9",
+        "entry_name": "LEU3_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 37728,
+        "gene_name": "'Name=leuB {ECO:0000255|HAMAP-Rule:MF_01033}; OrderedLocusNames=ZMO0677;'"
+    },
+    "ZMO0105": {
+        "accessions": "Q5NRC5",
+        "entry_name": "LEUC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 51813,
+        "gene_name": "'Name=leuC {ECO:0000255|HAMAP-Rule:MF_01026}; OrderedLocusNames=ZMO0105;'"
+    },
+    "ZMO0106": {
+        "accessions": "Q5NRC4",
+        "entry_name": "LEUD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 21336,
+        "gene_name": "'Name=leuD {ECO:0000255|HAMAP-Rule:MF_01031}; OrderedLocusNames=ZMO0106;'"
+    },
+    "ZMO1132": {
+        "accessions": "Q9RNY7",
+        "entry_name": "LIPA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 35662,
+        "gene_name": "'Name=lipA {ECO:0000255|HAMAP-Rule:MF_00206}; OrderedLocusNames=ZMO1132;'"
+    },
+    "ZMO1302": {
+        "accessions": "Q5NMY4",
+        "entry_name": "LIPB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 24589,
+        "gene_name": "'Name=lipB {ECO:0000255|HAMAP-Rule:MF_00013}; OrderedLocusNames=ZMO1302;'"
+    },
+    "ZMO0273": {
+        "accessions": "Q5NQV7",
+        "entry_name": "METK_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 42687,
+        "gene_name": "'Name=metK {ECO:0000255|HAMAP-Rule:MF_00086}; OrderedLocusNames=ZMO0273;'"
+    },
+    "ZMO0225": {
+        "accessions": "Q5NR05",
+        "entry_name": "METXA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 41185,
+        "gene_name": "'Name=metXA {ECO:0000255|HAMAP-Rule:MF_00296}; OrderedLocusNames=ZMO0225;'"
+    },
+    "ZMO1138": {
+        "accessions": "Q9X5G1",
+        "entry_name": "MIAA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 35089,
+        "gene_name": "'Name=miaA {ECO:0000255|HAMAP-Rule:MF_00185}; OrderedLocusNames=ZMO1138;'"
+    },
+    "ZMO0828": {
+        "accessions": "P56834",
+        "entry_name": "MRAY_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 38866,
+        "gene_name": "'Name=mraY {ECO:0000255|HAMAP-Rule:MF_00038}; OrderedLocusNames=ZMO0828;'"
+    },
+    "ZMO1724": {
+        "accessions": "Q5NLR2",
+        "entry_name": "MURA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 44755,
+        "gene_name": "'Name=murA {ECO:0000255|HAMAP-Rule:MF_00111}; OrderedLocusNames=ZMO1724;'"
+    },
+    "ZMO0833": {
+        "accessions": "Q9RNM8",
+        "entry_name": "MURB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 33905,
+        "gene_name": "'Name=murB {ECO:0000255|HAMAP-Rule:MF_00037}; OrderedLocusNames=ZMO0833;'"
+    },
+    "ZMO0832": {
+        "accessions": "Q9RNM7",
+        "entry_name": "MURC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 51023,
+        "gene_name": "'Name=murC {ECO:0000255|HAMAP-Rule:MF_00046}; OrderedLocusNames=ZMO0832;'"
+    },
+    "ZMO0829": {
+        "accessions": "Q5NPA7",
+        "entry_name": "MURD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 47476,
+        "gene_name": "'Name=murD {ECO:0000255|HAMAP-Rule:MF_00639}; OrderedLocusNames=ZMO0829;'"
+    },
+    "ZMO0826": {
+        "accessions": "Q9RNM2",
+        "entry_name": "MURE_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 51756,
+        "gene_name": "'Name=murE {ECO:0000255|HAMAP-Rule:MF_00208}; OrderedLocusNames=ZMO0826;'"
+    },
+    "ZMO0831": {
+        "accessions": "Q9RNM6",
+        "entry_name": "MURG_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 42380,
+        "gene_name": "'Name=murG {ECO:0000255|HAMAP-Rule:MF_00033}; OrderedLocusNames=ZMO0831;'"
+    },
+    "ZMO1329": {
+        "accessions": "Q5NMV7",
+        "entry_name": "NADK_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 29048,
+        "gene_name": "'Name=nadK {ECO:0000255|HAMAP-Rule:MF_00361}; OrderedLocusNames=ZMO1329;'"
+    },
+    "ZMO1823": {
+        "accessions": "Q5NLG3",
+        "entry_name": "NIFH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 32052,
+        "gene_name": "'Name=nifH {ECO:0000255|HAMAP-Rule:MF_00533}; OrderedLocusNames=ZMO1823;'"
+    },
+    "ZMO0510": {
+        "accessions": "O66119",
+        "entry_name": "ODP2_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 46833,
+        "gene_name": "'Name=pdhC; Synonyms=pdhB; OrderedLocusNames=ZMO0510;'"
+    },
+    "ZMO1606": {
+        "accessions": "O66112",
+        "entry_name": "ODPA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 38654,
+        "gene_name": "'Name=pdhA; Synonyms=pdhAalpha; OrderedLocusNames=ZMO1606;'"
+    },
+    "ZMO1605": {
+        "accessions": "O66113",
+        "entry_name": "ODPB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 49833,
+        "gene_name": "'Name=pdhB; Synonyms=pdhAbeta; OrderedLocusNames=ZMO1605;'"
+    },
+    "ZMO1952": {
+        "accessions": "Q5NL34",
+        "entry_name": "PANB1_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 31784,
+        "gene_name": "'Name=panB1 {ECO:0000255|HAMAP-Rule:MF_00156}; OrderedLocusNames=ZMO1952;'"
+    },
+    "ZMO1970": {
+        "accessions": "Q5NL16",
+        "entry_name": "PANB2_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 29231,
+        "gene_name": "'Name=panB2 {ECO:0000255|HAMAP-Rule:MF_00156}; OrderedLocusNames=ZMO1970;'"
+    },
+    "ZMO1954": {
+        "accessions": "Q5NL15",
+        "entry_name": "PANC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 32260,
+        "gene_name": "'Name=panC {ECO:0000255|HAMAP-Rule:MF_00158}; OrderedLocusNames=ZMO1954;'"
+    },
+    "ZMO1360": {
+        "accessions": "P06672",
+        "entry_name": "PDC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 60926,
+        "gene_name": "'Name=pdc; OrderedLocusNames=ZMO1360;'"
+    },
+    "ZMO1313": {
+        "accessions": "Q5NMX3",
+        "entry_name": "PDXA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 35453,
+        "gene_name": "'Name=pdxA {ECO:0000255|HAMAP-Rule:MF_00536}; OrderedLocusNames=ZMO1313;'"
+    },
+    "ZMO0851": {
+        "accessions": "Q9RNP3",
+        "entry_name": "PDXH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 22486,
+        "gene_name": "'Name=pdxH {ECO:0000255|HAMAP-Rule:MF_01629}; OrderedLocusNames=ZMO0851;'"
+    },
+    "ZMO1708": {
+        "accessions": "Q5NLS8",
+        "entry_name": "PDXJ_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 27971,
+        "gene_name": "'Name=pdxJ {ECO:0000255|HAMAP-Rule:MF_00279}; OrderedLocusNames=ZMO1708;'"
+    },
+    "ZMO0178": {
+        "accessions": "P09404",
+        "entry_name": "PGK_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 41388,
+        "gene_name": "'Name=pgk; OrderedLocusNames=ZMO0178;'"
+    },
+    "ZMO1900": {
+        "accessions": "Q5NL86",
+        "entry_name": "PLSX_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 37423,
+        "gene_name": "'Name=plsX {ECO:0000255|HAMAP-Rule:MF_00019}; OrderedLocusNames=ZMO1900;'"
+    },
+    "ZMO1195": {
+        "accessions": "Q5NN91",
+        "entry_name": "PLSY_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 22606,
+        "gene_name": "'Name=plsY {ECO:0000255|HAMAP-Rule:MF_01043}; OrderedLocusNames=ZMO1195;'"
+    },
+    "ZMO1661": {
+        "accessions": "Q5NLX5",
+        "entry_name": "PROA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 45809,
+        "gene_name": "'Name=proA {ECO:0000255|HAMAP-Rule:MF_00412}; OrderedLocusNames=ZMO1661;'"
+    },
+    "ZMO0206": {
+        "accessions": "Q5NR24",
+        "entry_name": "PROB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 42509,
+        "gene_name": "'Name=proB {ECO:0000255|HAMAP-Rule:MF_00456}; OrderedLocusNames=ZMO0206;'"
+    },
+    "ZMO1160": {
+        "accessions": "Q9X5E3",
+        "entry_name": "PSD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 26959,
+        "gene_name": "'Name=psd {ECO:0000255|HAMAP-Rule:MF_00664}; OrderedLocusNames=ZMO1160;'"
+    },
+    "ZMO1050": {
+        "accessions": "Q5NNN6",
+        "entry_name": "PSTB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 32751,
+        "gene_name": "'Name=pstB {ECO:0000255|HAMAP-Rule:MF_01702}; OrderedLocusNames=ZMO1050;'"
+    },
+    "ZMO0299": {
+        "accessions": "Q9FDL5",
+        "entry_name": "PUR2_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 44044,
+        "gene_name": "'Name=purD {ECO:0000255|HAMAP-Rule:MF_00138}; OrderedLocusNames=ZMO0299;'"
+    },
+    "ZMO1052": {
+        "accessions": "Q5NNN4",
+        "entry_name": "PUR7_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 29611,
+        "gene_name": "'Name=purC {ECO:0000255|HAMAP-Rule:MF_00137}; OrderedLocusNames=ZMO1052;'"
+    },
+    "ZMO1687": {
+        "accessions": "Q5NLU9",
+        "entry_name": "PURA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 46767,
+        "gene_name": "'Name=purA {ECO:0000255|HAMAP-Rule:MF_00011}; OrderedLocusNames=ZMO1687;'"
+    },
+    "ZMO0820": {
+        "accessions": "Q9REQ6",
+        "entry_name": "PURL_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 77587,
+        "gene_name": "'Name=purL {ECO:0000255|HAMAP-Rule:MF_00420}; Synonyms=pur-q; OrderedLocusNames=ZMO0820;'"
+    },
+    "ZMO1532": {
+        "accessions": "Q5NMA4",
+        "entry_name": "PURQ_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 23952,
+        "gene_name": "'Name=purQ {ECO:0000255|HAMAP-Rule:MF_00421}; OrderedLocusNames=ZMO1532;'"
+    },
+    "ZMO0791": {
+        "accessions": "Q5NPE5",
+        "entry_name": "PYRB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 34650,
+        "gene_name": "'Name=pyrB {ECO:0000255|HAMAP-Rule:MF_00001}; OrderedLocusNames=ZMO0791;'"
+    },
+    "ZMO0462": {
+        "accessions": "Q5NQB9",
+        "entry_name": "PYRG_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 59794,
+        "gene_name": "'Name=pyrG {ECO:0000255|HAMAP-Rule:MF_01227}; OrderedLocusNames=ZMO0462;'"
+    },
+    "ZMO1154": {
+        "accessions": "Q9X5E9",
+        "entry_name": "PYRH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 26315,
+        "gene_name": "'Name=pyrH {ECO:0000255|HAMAP-Rule:MF_01220}; OrderedLocusNames=ZMO1154;'"
+    },
+    "ZMO1023": {
+        "accessions": "Q5NNR3",
+        "entry_name": "QUEC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 28617,
+        "gene_name": "'Name=queC {ECO:0000255|HAMAP-Rule:MF_01633}; OrderedLocusNames=ZMO1023;'"
+    },
+    "ZMO0326": {
+        "accessions": "Q5NQQ4",
+        "entry_name": "QUEF_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 16671,
+        "gene_name": "'Name=queF {ECO:0000255|HAMAP-Rule:MF_00818}; OrderedLocusNames=ZMO0326;'"
+    },
+    "ZMO0473": {
+        "accessions": "Q5NQA8",
+        "entry_name": "RISB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 14861,
+        "gene_name": "'Name=ribH {ECO:0000255|HAMAP-Rule:MF_00178}; OrderedLocusNames=ZMO0473;'"
+    },
+    "ZMO0750": {
+        "accessions": "P50513",
+        "entry_name": "RLUD_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 34862,
+        "gene_name": "'Name=rluD; OrderedLocusNames=ZMO0750;'"
+    },
+    "ZMO0374": {
+        "accessions": "P0DJA3",
+        "entry_name": "SACB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 46762,
+        "gene_name": "'Name=sacB; Synonyms=levU, sucE2; OrderedLocusNames=ZMO0374;'"
+    },
+    "ZMO0182": {
+        "accessions": "Q5NR48",
+        "entry_name": "SAHH_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 50847,
+        "gene_name": "'Name=ahcY {ECO:0000255|HAMAP-Rule:MF_00563}; OrderedLocusNames=ZMO0182;'"
+    },
+    "ZMO1719": {
+        "accessions": "Q03417",
+        "entry_name": "SCRK_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 32609,
+        "gene_name": "'Name=frk; OrderedLocusNames=ZMO1719;'"
+    },
+    "ZMO0942": {
+        "accessions": "P0DJA7",
+        "entry_name": "SCR_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 58575,
+        "gene_name": "'Name=sacA; Synonyms=invA; OrderedLocusNames=ZMO0942;'"
+    },
+    "ZMO0872": {
+        "accessions": "P33990",
+        "entry_name": "SQHC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 74109,
+        "gene_name": "'Name=shc; OrderedLocusNames=ZMO0872;'"
+    },
+    "ZMO1481": {
+        "accessions": "Q5NMF5",
+        "entry_name": "SUCC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 42021,
+        "gene_name": "'Name=sucC {ECO:0000255|HAMAP-Rule:MF_00558}; OrderedLocusNames=ZMO1481;'"
+    },
+    "ZMO0985": {
+        "accessions": "Q5NNV1",
+        "entry_name": "SURE_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 27725,
+        "gene_name": "'Name=surE {ECO:0000255|HAMAP-Rule:MF_00060}; OrderedLocusNames=ZMO0985;'"
+    },
+    "ZMO0845": {
+        "accessions": "Q9RNN8",
+        "entry_name": "SYA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 97115,
+        "gene_name": "'Name=alaS {ECO:0000255|HAMAP-Rule:MF_00036}; OrderedLocusNames=ZMO0845;'"
+    },
+    "ZMO0186": {
+        "accessions": "Q5NR44",
+        "entry_name": "SYC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 58524,
+        "gene_name": "'Name=cysS {ECO:0000255|HAMAP-Rule:MF_00041}; OrderedLocusNames=ZMO0186;'"
+    },
+    "ZMO0715": {
+        "accessions": "Q5NPM1",
+        "entry_name": "SYDND_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 66458,
+        "gene_name": "'Name=aspS {ECO:0000255|HAMAP-Rule:MF_00044}; OrderedLocusNames=ZMO0715;'"
+    },
+    "ZMO0900": {
+        "accessions": "Q5NP36",
+        "entry_name": "SYE1_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 50635,
+        "gene_name": "'Name=gltX1 {ECO:0000255|HAMAP-Rule:MF_00022}; OrderedLocusNames=ZMO0900;'"
+    },
+    "ZMO1964": {
+        "accessions": "Q5NL22",
+        "entry_name": "SYE2_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 53893,
+        "gene_name": "'Name=gltX2 {ECO:0000255|HAMAP-Rule:MF_00022}; OrderedLocusNames=ZMO1964;'"
+    },
+    "ZMO1514": {
+        "accessions": "Q5NMC2",
+        "entry_name": "SYFA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 40337,
+        "gene_name": "'Name=pheS {ECO:0000255|HAMAP-Rule:MF_00281}; OrderedLocusNames=ZMO1514;'"
+    },
+    "ZMO1513": {
+        "accessions": "Q5NMC3",
+        "entry_name": "SYFB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 85112,
+        "gene_name": "'Name=pheT {ECO:0000255|HAMAP-Rule:MF_00283}; OrderedLocusNames=ZMO1513;'"
+    },
+    "ZMO1446": {
+        "accessions": "Q5NMJ1",
+        "entry_name": "SYGA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 33047,
+        "gene_name": "'Name=glyQ {ECO:0000255|HAMAP-Rule:MF_00254}; OrderedLocusNames=ZMO1446;'"
+    },
+    "ZMO0323": {
+        "accessions": "Q5NQQ7",
+        "entry_name": "SYI_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 106263,
+        "gene_name": "'Name=ileS {ECO:0000255|HAMAP-Rule:MF_02002}; OrderedLocusNames=ZMO0323;'"
+    },
+    "ZMO1435": {
+        "accessions": "Q5NMK1",
+        "entry_name": "SYL_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 95428,
+        "gene_name": "'Name=leuS {ECO:0000255|HAMAP-Rule:MF_00049}; OrderedLocusNames=ZMO1435;'"
+    },
+    "ZMO0460": {
+        "accessions": "P0DJA8",
+        "entry_name": "SYP_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 50314,
+        "gene_name": "'Name=proS {ECO:0000255|HAMAP-Rule:MF_01570}; OrderedLocusNames=ZMO0460;'"
+    },
+    "ZMO0986": {
+        "accessions": "Q5NNV0",
+        "entry_name": "SYS_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 47730,
+        "gene_name": "'Name=serS {ECO:0000255|HAMAP-Rule:MF_00176}; OrderedLocusNames=ZMO0986;'"
+    },
+    "ZMO0765": {
+        "accessions": "Q5NPH1",
+        "entry_name": "SYT_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 74873,
+        "gene_name": "'Name=thrS {ECO:0000255|HAMAP-Rule:MF_00184}; OrderedLocusNames=ZMO0765;'"
+    },
+    "ZMO1878": {
+        "accessions": "Q5NLA8",
+        "entry_name": "SYV_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 100416,
+        "gene_name": "'Name=valS {ECO:0000255|HAMAP-Rule:MF_02004}; OrderedLocusNames=ZMO1878;'"
+    },
+    "ZMO1643": {
+        "accessions": "Q5NLZ3",
+        "entry_name": "SYY_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 45014,
+        "gene_name": "'Name=tyrS {ECO:0000255|HAMAP-Rule:MF_02006}; OrderedLocusNames=ZMO1643;'"
+    },
+    "ZMO0363": {
+        "accessions": "P28720",
+        "entry_name": "TGT_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 42843,
+        "gene_name": "'Name=tgt {ECO:0000255|HAMAP-Rule:MF_00168}; OrderedLocusNames=ZMO0363;'"
+    },
+    "ZMO0172": {
+        "accessions": "Q5NR58",
+        "entry_name": "THIC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 66886,
+        "gene_name": "'Name=thiC {ECO:0000255|HAMAP-Rule:MF_00089}; OrderedLocusNames=ZMO0172;'"
+    },
+    "ZMO0738": {
+        "accessions": "Q5NPJ8",
+        "entry_name": "THIG_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 27127,
+        "gene_name": "'Name=thiG {ECO:0000255|HAMAP-Rule:MF_00443}; OrderedLocusNames=ZMO0738;'"
+    },
+    "ZMO0584": {
+        "accessions": "Q5NPZ7",
+        "entry_name": "TRPA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 28838,
+        "gene_name": "'Name=trpA {ECO:0000255|HAMAP-Rule:MF_00131}; OrderedLocusNames=ZMO0584;'"
+    },
+    "ZMO0545": {
+        "accessions": "Q5NQ36",
+        "entry_name": "TRPC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 29341,
+        "gene_name": "'Name=trpC {ECO:0000255|HAMAP-Rule:MF_00134}; OrderedLocusNames=ZMO0545;'"
+    },
+    "ZMO0586": {
+        "accessions": "Q5NPZ5",
+        "entry_name": "TRPF_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 23205,
+        "gene_name": "'Name=trpF {ECO:0000255|HAMAP-Rule:MF_00135}; OrderedLocusNames=ZMO0586;'"
+    },
+    "ZMO0810": {
+        "accessions": "Q9REQ0",
+        "entry_name": "TRUA_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 27412,
+        "gene_name": "'Name=truA {ECO:0000255|HAMAP-Rule:MF_00171}; Synonyms=rulA; OrderedLocusNames=ZMO0810;'"
+    },
+    "ZMO0551": {
+        "accessions": "Q5NQ30",
+        "entry_name": "TRUB_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 32587,
+        "gene_name": "'Name=truB {ECO:0000255|HAMAP-Rule:MF_01080}; OrderedLocusNames=ZMO0551;'"
+    },
+    "ZMO0420": {
+        "accessions": "Q04983",
+        "entry_name": "TYRC_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 32051,
+        "gene_name": "'Name=tyrC {ECO:0000303|PubMed:7916685}; OrderedLocusNames=ZMO0420;'"
+    },
+    "ZMO1755": {
+        "accessions": "Q9Z671",
+        "entry_name": "TYSY_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 33586,
+        "gene_name": "'Name=thyA {ECO:0000255|HAMAP-Rule:MF_00008}; Synonyms=thyB; OrderedLocusNames=ZMO1755;'"
+    },
+    "ZMO1188": {
+        "accessions": "Q9X3X2",
+        "entry_name": "UBIE_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 27406,
+        "gene_name": "'Name=ubiE {ECO:0000255|HAMAP-Rule:MF_01813}; Synonyms=ubm; OrderedLocusNames=ZMO1188;'"
+    },
+    "ZMO1115": {
+        "accessions": "Q9RNL1",
+        "entry_name": "UPPP_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 29096,
+        "gene_name": "'Name=uppP {ECO:0000255|HAMAP-Rule:MF_01006}; Synonyms=bacA, upk; OrderedLocusNames=ZMO1115;'"
+    },
+    "ZMO0511": {
+        "accessions": "O66120",
+        "entry_name": "Y511_ZYMMO",
+        "organism": "'Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4).'",
+        "mw": 16241,
+        "gene_name": "'OrderedLocusNames=ZMO0511;'"
+    }
+}
